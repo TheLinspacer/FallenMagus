@@ -40,7 +40,26 @@
 * On the other side, "Hi, Rufus!"  That was a good touch.
 * Actually I really like that song.
 
-#Chapter 22: 
+#Chapter 22: Ark's Mistake
+* Very good.  I made zero comments in the text of this chapter.
+* Overall it was entertaining and a very strong chapter.  Indeed it redeemed the previous chapter almost entirely.  There are no mistakes, the characters are logical and consistent.  Greg's backstory is entertaining and so it's Mel's exchange with Slevin.  These elements really give dimension to the characters (we see so much of Mel with Marcus; it's illuminating to see her interact with someone else).  
+* Really I think the chapter is so good because Marcus and Diana aren't there and Mel isn't talking about Marcus.  
 
+#Chapter 23: Rufus' end?
+* Lots of comments in the text of the chapter.
+	* Nothing should be surreal to a 300 year old Magus who was previously a demi-god.  Certainly not a relatively understandable coincidence, i.e. Rufus.
+	* Why would Marcus feel anything but pride about helping the Khanus Empire annex Saul's Rock.  The place is a shithole and he spent several lifetimes helping the empire do just that.  It's not like it would make any sense for him to lose his powers and his ideology of those lifetimes immediately.  So it's not a jab.
+	* Just after that he get's very angry at Rufus for being a little vague.  He's incredibly touchy and guilty, like a teenager.
+	* What on Earth has Marcus done to disrespect Helena's memory?  Srsly.
+* Overall it's pretty good.  Rufus helps lubricate the narrative.  It kinda moves the plot.  I guess Stoat and his position will have more to do in the next book.  And why isn't Diana talking.  She doesn't seem like the kind of person to stay fully silent.
 
-#     Void and Tower! - A brief Marxist reading of Fallen Magus Book Two
+#Chapter 24: Greg joins the club.
+## Or What we talk about when we talk about VR
+* I have written at the end of the chapter: __Best chapter of the series so far__
+* Well done!
+
+#Void and Tower! - A brief Marxist reading of Fallen Magus Book Two
+
+<!--- 
+Themes of power vs freedom.  Empire vs Anarchy.  The way the inherent human power of Marcus and Helena is twisted into a tool for the elite and their civilizing yet brutalizing effect on the galaxy they inhabit.
+--->
