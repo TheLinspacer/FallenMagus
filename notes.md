@@ -1,8 +1,8 @@
-#Hi Cole and Mike
+# Hi Cole and Mike
 
-#Chapter by Chapter review of Fallen Magus book two: The last lead
+### Chapter by Chapter review of Fallen Magus book two: The last lead
 
-###Chapter 35 is the most important part.
+### Chapter 35 is the most important part.
 
 ## General comments:
 * Avoid past participle unless you're really describing something indirectly
@@ -53,14 +53,63 @@
 	* What on Earth has Marcus done to disrespect Helena's memory?  Srsly.
 * Overall it's pretty good.  Rufus helps lubricate the narrative.  It kinda moves the plot.  I guess Stoat and his position will have more to do in the next book.  And why isn't Diana talking.  She doesn't seem like the kind of person to stay fully silent.
 
-## Chapter 24: Greg joins the club, or What we talk about when we talk about VR.
+## Chapter 24: Greg joins the club, or what we talk about when we talk about VR.
 * I have written at the end of the chapter: __Best chapter of the series so far__
 * [Well done!](https://www.youtube.com/watch?v=JW68goC4_es)
 
-## Chapter 25: Marcus and Diana listlessly evade lupine death.
-* Meh.
+## Chapter 25: Marcus and Diana listlessly evade lupine doom.
+* The first sentence is just off-putting.  Why generalize something that's happening specifically to Marcus?  Direct is better than indirect.
+* Overall not good.  Action is a real strong point of these books, but this get's it uncharacteristically wrong.  It's way overwritten, 'velocity's rough shove' to call out just one phrase.  And at the end why was Hedgemire even there?  And is he still alive?  
 
-#Void and Tower! - A brief Marxist reading of Fallen Magus Book Two
+## Chapter 26: The Death Dervish cometh.
+* I have written at the end of the chapter: __Ok this is the _best_ chapter of the series so far__
+* Overall really excellent because everything after "Do you want to kill those mercs out there" is exceptional, but there are some nits to pick with the initial part.
+	* Why would Greg initially be 'curt.'  He is anything but rude.
+	* The imperial spec ops with Basheen Grimm are not 'folk'.
+	* Diana's tone is not 'flat' during a car chase and if that's supposed to be her character then you should reconsider because that's too extreme.
+	* 'Half sardonic and half worried'.  Sardonic is waaay too strong a word.  Ironic, irritated, bemused?
+	* Burn that bridge when she came to it?  What?
+	* What? She has second thoughts about the ogre merc now because he's too powerful?  And she's spent 300 years galavanting around with a magus?  And most of these books willing to kill anyone in their way?  This is very out of character.
+* I didn't picture Greg as chestnut.  Perhaps that should be in the description of him in book one or I just glossed it.    
+
+## Chapter 27 Reunited and it feels so ouch: 
+* Simply put: the story is good the writing is bad.  
+	* The twists and turns and shifts of location are really entertaining without being disorienting.  
+	* The writing takes a dramatic situation and murders it by trying to force the drama onto the reader.  A car chase and aetheric driven crash into an intergalactic harbor is inherently exciting it needs short, direct sentences and active modifiers; not additional explanations of aetheric physics (which we could easily infer by this point) or descriptions of minute facial expressions.
+
+## Chapter 28 Foreshadowing what's already happened: 
+* In summary, it's sappy, inconsistent, saccharine, and turns characters who are ostensibly warriors into Twilight tweenagers.  And, it's pretty good.
+* "Keep him strong Captain Istara".  He's a fucking Magus, c'mon.
+*  With the chems, wounds aren't serious so why would anyone care about the Prince's cut?
+* Why does Diana outrank Renic and Helena?  That's weird.
+* Stop beating me over the head about Diana already.  "Cold emotionless exterior."  I get it, jeez.
+* 'Cold pain that still festered within her heart.'  :/
+
+## Chapter 29 Now that everyone is conscious, what do we do?: 
+* It's good.  Nothing special, but it doesn't have to be.
+* You've done a good job of getting to an impossible place: Ark is on the Amal'hiam with everyone else.  I don't know where you're going with this, and I don't really buy it (Slevin is on his way after all), but you've sold it as well as possible and I figure it's important to the overall plot.
+
+## Chapter 30 The immovable object and irresistable force meet: 
+* Again, it moves the plot and it's capably written.
+* Why aren't all the finders fighting Greg?  And why no weapons?  I don't see anything about this in the Code of the Hunt section in 31.
+*  Anyway, I wonder if 29 and 30 couldn't be combined into one chapter, they're both short and there isn't much of a natural separation between them.
+
+## Chapter 31 Greg v Basheen deathmatch of the turnspan: 
+* I get a Family Guy chicken fight vibe from this a bit.
+
+## Chapter 32 _Air Force One_ in space: 
+* Great action scenes.
+* Almost makes up for.  Seriously?  They boarded the imperial flagship?  Seriously?  You know it's an empire right?
+
+## Chapter 33: 
+
+## Chapter 34: 
+
+## Chapter 35: 
+
+## Chapter 36: 
+
+# Void and Tower! - A brief Marxist reading of Fallen Magus Book Two
 
 <!--- 
 Themes of power vs freedom.  Empire vs Anarchy.  The way the inherent human power of Marcus and Helena is twisted into a tool for the elite and their civilizing yet brutalizing effect on the galaxy they inhabit.
