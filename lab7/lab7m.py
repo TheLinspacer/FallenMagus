@@ -124,7 +124,6 @@ def histo_letter(dt):
     for item in Alpha:
         val.append(dt[item])
     
-    
     plt.figure()
     plt.bar(range(26),val)
     plt.xticks(range(26),Alpha[:26])
