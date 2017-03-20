@@ -2,13 +2,13 @@
 
 ### Chapter by Chapter review of Fallen Magus book two: The last lead
 
-### Chapter 35 is the most important part.
+### Chapter 34 is the most important part.
 
 ## General comments:
 * Avoid past participle unless you're really describing something indirectly
 * Favor pronouns a bit more compared to aliases eg. the former Magus -> he.  (doing that is fine, it just seems overused)
 * Beware conjunctions when no logical connection is apparent.
-* Avoid present participle phrases eg. __Closing his eyes__, Marcus took in a deep breath from his nose (Chapter 18).  People can read 700 page Harry Potter books in a week because JK Rowling almost never does this.  It wrong-foots the reader because the action comes before the doer.  A fast read is really important for this genre.  This sentence can be rewritten as: "Marcus closed his eyes and took a deep breath".
+* Avoid present participle phrases eg. ___Closing his eyes__, Marcus took in a deep breath from his nose_ (Chapter 18).  People can read 700 page Harry Potter books in a week because JK Rowling almost never does this.  It wrong-foots the reader because the action comes before the doer.  A fast read is really important for this genre.  This sentence can be rewritten as: "Marcus closed his eyes and took a deep breath".
 * Don't explain the obvious.  Take the previous sentence, of course he took the deep breath 'in' and 'from (through would be better) his nose'.  Who 'takes' deep breaths out through the mouth?  The reader will paint the right picture, don't overburden them.  
 * If this advice seems too sparse, liven it up with vocabulary.  Sure "Marcus closed his eyes and took a deep breath" is kinda boring.  Consider: "Marcus inhaled deeply and let his heavy eyelids fall"
 
@@ -96,14 +96,31 @@
 
 ## Chapter 31 Greg v Basheen deathmatch of the turnspan: 
 * I get a Family Guy chicken fight vibe from this a bit.
+* It's very good really, but there is a bit too much description, too much reminding.
+	* For instance: _His enemy had skill to be sure bit it was tempered by an animalistic ferocity that Greg could not match or counter._  We already know this, that's what you've been describing.  
+* Slevin get's who he is.  I think that should be more common.  His face was on posters, and it's not like just anyone is working with a pixie.  I'm not saying everyone should get it, but maybe it's a bit more obvious that he's Marcus Crassus than you're making it out to be.  
 
-## Chapter 32 _Air Force One_ in space: 
-* Great action scenes.
-* Almost makes up for.  Seriously?  They boarded the imperial flagship?  Seriously?  You know it's an empire right?
+## Chapter 32 _Air Force One_ in space:  
+* You're really hitting your stride here as writers, I've written _best flashback by far_ here and that's not the first time I've written that in this half of the book.
+* Great action scenes. They really moved and I could really _see_ the setting even though it was the first time we encountered it.
+* Almost makes up for the fact that...  Seriously?  They boarded the imperial flagship?  Seriously?  You know it's an empire right? Fine, maybe it's something bigger which will come to light.  But at the moment it makes little sense.
+* Weird how the security is so lax.  You explain it, but it's not terribly convincing (Very low on the list of priorities though, it's fine).
+* I like how it gets right into the action.  No preliminaries.  It's jarring, like the invasion and that's a important and pleasing symmetry.
+* You really get a Star Wars vibe here: navigating a ship in battle, jettisoning a hero in a life preserver module.  I dig it.  This book is, and should be, a sort of pastiche of sci-fi and fantasy tropes.  It's best when the text triggers a vibe, a feeling, like it does here.  How the reader might not know they saw it until a few pages later.  That's literature.
 
 ## Chapter 33: 
+* Marcus' glint at the beginning.  THAT's what we should be seeing from him.  You kind of lose it there by over-explaining though.
+* There are some good metaphors here, _The Legion suffered turncoats..._ , _his chestnut skin had..._  That's notable.
+* I like Diana's tactics, why shouldn't someone just call it what it is.  Marcus is 'Primus Reborn'.  It's an irrelevant secret in present company.
+* I more than a little wish you had kept Slevin.
+* _"How do you know where that is?" asked Marcus._  Don't make Marcus an idiot.  Of course Ark knows where it is and Marcus knows how he knows it.
+* I like the humanization of Ark toward the end.  We get his ruthlessness and his single-mindedness much more after this.  His entire character is many times deeper just from these three instances of dialogue and it fits together well.
+* But really, Marcus just leaves him there.  Ark says it would be silly to interrupt their escape so Marcus just trusts him with the heart of the spaceship: Oh this guy who has been trying to kill me wouldn't try anything now...  Why is the main character so stupid, it's so transparent.  Again, he's 300 years old, this wouldn't happen.
+* Last line _living nightmare_.  Sorry, but it's a very important line and this is a clumsy, silly phrase.  It would be most powerful if it was only dialogue in that paragraph.   
 
 ## Chapter 34: 
+* I'm not going to lie.  I'm a little upset.  Part of the reason I took so long to write this thing is because I'm avoiding this.  Mostly though it's because the class I took this semester W17 was stupid and required 4 classes worth of work.
+* But yeah, Marcus' speech is the most important part of any of the books and it's not good.
 
 ## Chapter 35: 
 

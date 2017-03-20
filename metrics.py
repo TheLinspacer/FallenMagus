@@ -16,7 +16,6 @@ mpl.rcParams["axes.grid"] = True
 mpl.rcParams['xtick.direction'] = 'out'
 mpl.rcParams['ytick.direction'] = 'out'
 
-
 def remove_other(bk):
     rt = []
     d = string.digits
