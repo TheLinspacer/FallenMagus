@@ -1,3 +1,4 @@
+from __future__ import division  # Python 2 users only
 import string
 import numpy as np
 import os
@@ -7,6 +8,10 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import time
 import matplotlib.ticker as ticker
+import codecs
+import nltk as nL
+
+#need nL.download('all') if it's not working.
 
 thispath = op.abspath(op.dirname(__file__))
 os.chdir(thispath)
@@ -57,6 +62,38 @@ def word_length(wcnt, ubook_dict):
     
     return float(gr)/float(wcnt)
     
+    booksuffix = ".txt"
+    pltsuffix = ".pdf" 
+    bookone = "FallenMagus_2"
+    bkFile = bookone + booksuffix
+    nwords = 100
+    t = time.time()
+    f = codecs.open(bkFile, "r", encoding='utf8', errors="ignore")
+    m = f.read()
+    tBook = Bookstats(m, nwords)
+    mb = nL.word_tokenize(m)
+    tag = nL.pos_tag(mb)
+    prn = len([tg for tg in tag if tg[1]=='PRP'])
+
+    attr = [a for a in dir(tBook) if not a.startswith('__') and not callable(getattr(tBook,a))]
+    for att in attr:
+        ats = getattr(tBook, att)
+        if sys.getsizeof(ats)>100:
+            continue
+        else:
+            print "-----------" + att + "-----------"
+            print ats
+
+    print "----------- Most Common Words ----------"    
+    print "Rank --- Number of uses --- Word"
+    for i, m2 in enumerate(tBook.most_commonword):
+        print i+1, ": ", m2
+    
+    fig = plt.figure()
+    ax = fig.add_subplot(1, 1, 1)
+    tBook.histo_word(ax)
+    pltname = "_wordHistogram"
+    fig.suptitle(bookone + pltname, fontsize="large", fontweight='bol
 def count_wordlength(ubook_dict):
     mx = max([len(k) for k in ubook_dict.keys()])
     wL = {x+1 : 0 for x in xrange(mx)}
@@ -108,9 +145,12 @@ if __name__ == "__main__":
     bkFile = bookone + booksuffix
     nwords = 100
     t = time.time()
-    f = open(bkFile, "r")
+    f = codecs.open(bkFile, "r", encoding='utf8', errors="ignore")
     m = f.read()
     tBook = Bookstats(m, nwords)
+    mb = nL.word_tokenize(m)
+    tag = nL.pos_tag(mb)
+    prn = len([tg for tg in tag if tg[1]=='PRP'])
 
     attr = [a for a in dir(tBook) if not a.startswith('__') and not callable(getattr(tBook,a))]
     for att in attr:
