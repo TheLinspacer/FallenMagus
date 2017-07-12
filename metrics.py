@@ -11,6 +11,8 @@ import matplotlib.ticker as ticker
 import codecs
 import nltk as nL
 
+
+
 #need nL.download('all') if it's not working.
 
 thispath = op.abspath(op.dirname(__file__))
